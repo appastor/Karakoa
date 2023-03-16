@@ -1,0 +1,19 @@
+env/
+.vscode/
+
+# Media and Static directories
+media
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+*.log
+db.sqlite3
